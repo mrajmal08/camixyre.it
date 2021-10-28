@@ -1,0 +1,7 @@
+/*==================================================================================
+    Custom Stylesheet (Any custom styling you want to apply should be defined here).
+====================================================================================*/
+
+.dropdown-toggle::after{
+    content: none;
+}

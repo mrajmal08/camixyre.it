@@ -1,0 +1,49 @@
+/*  Custom Asaldi Style */
+
+ul.thumbnails.image_picker_selector li .thumbnail{
+    line-height: 155px;
+    height: 169px;
+    width: 169px;
+    overflow: hidden;
+}
+
+.image_picker_image{
+    width: 100%;
+}
+
+.images-selection-body{
+    height: 650px;
+    overflow: scroll;
+}
+
+#featured-view{
+    width: 100%;
+}
+
+.tox .tox-edit-area__iframe{
+    background-color: #fff !important;
+}
+
+div.tagsinput span.tag{
+    color: white !important;
+}
+
+div.tagsinput input{
+    color: white !important;
+}
+
+.has-error{
+    border-color: red;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+.total-order-box{
+    background-color: #0c1427;
+    box-shadow: 3px 0 10px 0 #060b15;
+    -webkit-box-shadow: 3px 0 10px 0 #060b15;
+    -moz-box-shadow: 3px 0 10px 0 #060b15;
+    -ms-box-shadow: 3px 0 10px 0 #060b15;
+    border: 1px solid #172340;
+    font-size: 16px;
+}
